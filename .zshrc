@@ -10,7 +10,7 @@ else
     eval $(dircolors)
 fi
 
-# Path to your oh-my-zsh installation.
+# oh-my-zsh path
 export ZSH="$HOME/.oh-my-zsh"
 
 # Theme config to OH-MY-ZSH
@@ -63,6 +63,7 @@ alias upgrade="sudo apt upgrade"
 alias install="sudo apt install"
 alias uninstall="sudo apt remove"
 alias autoremove="sudo apt autoremove"
+alias upd_zshrc="cd ~ && git add .zshrc && git push"
 alias clear="tput reset"
 alias g="googler --count 5 "
 alias mi="micro"
