@@ -128,7 +128,6 @@ HIST_STAMPS="dd/mm/yyyy"
 plugins=(
     zsh-autosuggestions
     zsh-syntax-highlighting
-    oh-my-matrix
 )
 
 # Import OH-MY-ZSH
