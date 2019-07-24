@@ -1,9 +1,5 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-<<<<<<< HEAD
-#b
-=======
-#a
->>>>>>> 705ee9c4948591915b1e09f5d5f434f95638c05f
+
 export EDITOR='micro'
 
 # LS colors
