@@ -133,7 +133,7 @@ HIST_STAMPS="dd/mm/yyyy"
 
 plugins=(
     zsh-autosuggestions
-#    zsh-syntax-highlighting
+    zsh-syntax-highlighting
 )
 
 # Import OH-MY-ZSH
