@@ -15,7 +15,6 @@ export ZSH="$HOME/.oh-my-zsh"
 
 # Theme config to OH-MY-ZSH
 
-
 ZSH_THEME="powerlevel10k/powerlevel10k"
 POWERLEVEL9K_MODE="nerdfont-complete"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=2
