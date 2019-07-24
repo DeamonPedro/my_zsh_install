@@ -11,6 +11,7 @@ else
 fi
 
 # oh-my-zsh path
+
 export ZSH="$HOME/.oh-my-zsh"
 
 # Theme config to OH-MY-ZSH
